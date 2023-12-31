@@ -1,0 +1,8 @@
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\bin\Debug\araba_sinifi_ornek_proje.exe.config
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\bin\Debug\araba_sinifi_ornek_proje.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\bin\Debug\araba_sinifi_ornek_proje.pdb
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\obj\Debug\araba_sinifi_ornek_proje.csproj.AssemblyReference.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\obj\Debug\araba_sinifi_ornek_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\obj\Debug\araba_sinifi_ornek_proje.csproj.CoreCompileInputs.cache
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\obj\Debug\araba_sinifi_ornek_proje.exe
+C:\Users\merye\OneDrive\Masaüstü\C#\araba_sinifi_ornek_proje\araba_sinifi_ornek_proje\obj\Debug\araba_sinifi_ornek_proje.pdb
